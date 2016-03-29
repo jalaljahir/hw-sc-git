@@ -1,1 +1,3 @@
 Created the jj_hwgit03292016.txt inside the "hw-sc-git" folder .git is initiated, and located on desktop .
+
+Added this line to see changes on git.
